@@ -75,11 +75,22 @@
       </button>
     </section>
     <script>
-        let hometown_p = prompt("What is your hometown?");
-        alert(hometown_p);
-        let first_name = prompt("What is your first name?")
-        let last_name = prompt("Last name?");
-        alert(first_name + " " + last_name);
-    </script>
+       function askUser() {
+        let name = prompt("What is your name?")
+        let age = prompt("What is your age?")
+
+        if (age >= 18) {
+          let h1 = document.querySelector("h1");
+          h1.innerHTML = "Hi, " + name + "! Welcome to SheCodes!";
+        }
+        else {
+          let h1 = document.querySelector("h1");
+          h1.innerHTML = "Sorry, " + name + "! You cannot join SheCodes"
+
+        }
+      }
+      let applybutton = document.querySelector("button");
+      applybutton.addEventListener("click", askUser);
+</script>
   </body>
 </html>

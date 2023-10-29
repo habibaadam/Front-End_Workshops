@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>worskshop1</title>
+    <title>worskshop2</title>
 </head>
 <style>
     h1 {
@@ -159,8 +159,24 @@
         </li>
     </ul>
     <button>Change city</button>
-    <p class="formatp">Coded by Matt Delac ... and Me </p>
+    <p class="formatp">Coded by Habiba Adam </p>
     <script>
+        function cityTemp() {
+            let city = prompt("What city do you live in?");
+            let temp = prompt("What is the temperature now?");
+
+            if (temp < 0)
+            {
+                let h1 = document.querySelector("h1");
+                h1.innerHTML = "☹️ <br /> Currently " + temp + "°C in " + city;
+            }
+            else {
+                let h1 = document.querySelector("h1");
+                h1.innerHTML = "😀 <br />Currently " + temp + "°C in " + city;
+            }
+        }
+        cityButton = document.querySelector("button");
+        cityButton.addEventListener("click", cityTemp);
     </script>
 </body>
 </html>

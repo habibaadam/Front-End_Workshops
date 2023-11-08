@@ -1,0 +1,53 @@
+ h1 {
+        text-align: center;
+        margin-top: 125px;
+        font-size: 34px;
+        font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        color: #272044;
+    }
+
+    h2 {
+        text-align: center;
+        color:#8064e9;
+        font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        font-size: 34px;
+        margin-top: -15px;
+        padding: 0px 0px 23px;
+    }
+
+    .practice {
+        text-align: center;
+        font-family: 'Source Code Pro', monospace;
+        font-size: 18px;
+        margin-bottom: 50px;
+        line-height: 27px;
+    }
+
+    button {
+        display: block;
+        margin: 0 auto;
+        line-height: 22px´;
+        border: 1px solid #8064e9;
+        border-radius: 30px;
+        padding: 16px 24px;
+        font-size: 15px;
+        transition: all 200ms ease;
+        color: white;
+        background-color: #8064e9;
+        box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+    }
+
+    button:hover {
+        cursor: pointer;
+        background-color: #5E41A7;
+        color: white;
+    }
+
+    img {
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 40px;
+    }

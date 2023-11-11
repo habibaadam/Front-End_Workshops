@@ -15,7 +15,7 @@ WEEK 1 👇🏽
 [![plusweek1.jpg](https://i.postimg.cc/KjMxH18p/plusweek1.jpg)](https://postimg.cc/Zv4G9K36)
 
 WEEK 2 👇🏽
-<b>CSS FLEXBOX ADDED</b>
+<b>CSS FLEXBOX USED</b>
 [![plusweek2.jpg](https://i.postimg.cc/ZKL5tyLX/plusweek2.jpg)](https://postimg.cc/Lnnpj5wV)
 
 

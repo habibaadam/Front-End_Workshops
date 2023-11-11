@@ -14,7 +14,6 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  body,
   h1,
   .weather {
     color: #fff;

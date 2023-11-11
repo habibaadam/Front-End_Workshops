@@ -8,4 +8,14 @@ Workshop 1(SheCodes Basics) ... ✅
 
 Workshop 2(SheCodes Plus) ...
 
-WEEK 1
+WEEK 1 👇🏽
+
+## A Weather App(Only HTML)
+
+[![plusweek1.jpg](https://i.postimg.cc/KjMxH18p/plusweek1.jpg)](https://postimg.cc/Zv4G9K36)
+
+WEEK 2 👇🏽
+<b>CSS FLEXBOX ADDED</b>
+[![plusweek2.jpg](https://i.postimg.cc/ZKL5tyLX/plusweek2.jpg)](https://postimg.cc/Lnnpj5wV)
+
+

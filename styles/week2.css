@@ -13,10 +13,13 @@ body {
   font-family: "Ubuntu", sans-serif;
 }
 
-body, h1, .weather {
-  color: black;
+@media screen and (max-width: 600px) {
+  body,
+  h1,
+  .weather {
+    color: #fff;
+  }
 }
-
 .within {
   display: block;
   padding: 30px 0;

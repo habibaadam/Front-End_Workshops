@@ -25,5 +25,4 @@ WEEK 2 👇🏽
 
 WEEK 3 AND WEEK 4
 ## Weather App BuildUp
-
-<video src="https://screenpal.com/watch/c0Xv3VVmblE" controls></video>
+![FB865539-4E4D-4C51-A761-46ACD45EB88E_1_105_c](https://github.com/habibaadam/Front-End_Workshops/assets/119977316/deee13d6-4e7a-4745-ab1b-e16d170d57db)

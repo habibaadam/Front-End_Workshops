@@ -23,3 +23,7 @@ WEEK 2 👇🏽
 [![plusweek2.jpg](https://i.postimg.cc/ZKL5tyLX/plusweek2.jpg)](https://postimg.cc/Lnnpj5wV)
 
 
+WEEK 3 AND WEEK 4
+## Weather App BuildUp
+
+<video src="https://screenpal.com/watch/c0Xv3VVmblE" controls></video>

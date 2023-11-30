@@ -1,6 +1,6 @@
 //Changing H1 according to search input
 let form1 = document.querySelector("#search-check");
-form1.addEventListener("click", function switchMe(event) {
+form1.addEventListener("submit", function switchMe(event) {
   event.preventDefault();
   let cityVal = document.querySelector("#search-me");
   let h1 = document.querySelector(".city-now");

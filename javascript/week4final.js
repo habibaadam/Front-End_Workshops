@@ -1,12 +1,11 @@
 //Changing H1 according to search input
-let form1 = document.querySelector("#search-check");
-form1.addEventListener("submit", function switchMe(event) {
+let Form1 = document.querySelector("#search-check");
+
+Form1.addEventListener("submit", function switchUp(event) {
   event.preventDefault();
-  let cityVal = document.querySelector("#search-me");
-  let h1 = document.querySelector(".city-now");
-  if (cityVal.value) {
-    h1.innerHTML = cityVal.value;
-  }
+  let searchInput = document.querySelector("#search-me");
+  let cityNow = document.querySelector("#city-now");
+  cityNow.innerHTML = searchInput.value;
 });
 
 // Changing dates to real time dates

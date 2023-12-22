@@ -1,0 +1,63 @@
+:root {
+  --contact-color: #6d62fc;
+  --a-color: white;
+  --shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+h1,
+h2,
+h3,
+div {
+  text-align: center;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 95px;
+}
+
+h2 {
+  font-size: 48px;
+  margin-top: 50px;
+}
+
+h3 {
+  font-size: 24px;
+  opacity: 0.7;
+}
+
+a {
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.cc {
+  color: var(--a-color);
+}
+
+button {
+  padding: 20px 15px;
+  margin: 20px;
+  border: 1px solid var(--contact-color);
+  border-radius: 4px;
+  box-shadow: var(--shadow);
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.linking {
+  margin: 20px;
+  padding: 20px 15px;
+}
+
+.c-linking {
+  background-color: var(--contact-color);
+}
+
+.for-a {
+  color: var(--contact-color);
+}

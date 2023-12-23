@@ -92,6 +92,7 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+  color: blue;
 }
 
 text-center {
